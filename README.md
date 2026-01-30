@@ -51,3 +51,6 @@ Mobile robots in shared workspaces
 UAV / autonomous navigation
 
 Learning-based planners that use RRT* as a baseline
+
+Note: This code was generated with the assistance of ChatGPT and adapted by me for learning and simulation purposes.
+
