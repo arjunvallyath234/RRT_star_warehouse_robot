@@ -54,6 +54,5 @@ Learning-based planners that use RRT* as a baseline
 
 ## Disclaimer
 This repository is intended for educational and simulation purposes.
-The implementation was created with the assistance of AI tools (ChatGPT)
-and manually refined to study RRT* behavior in dynamic environments.
+The coding was done with the assistance of AI tools and manually refined to study RRT* behavior in dynamic environments.
 
