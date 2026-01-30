@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/778dd9cd-f704-437f-be51-ee3904a077e3
+
 This simulation demonstrates how RRT* (Rapidly-exploring Random Tree Star) behaves in a dynamic warehouse environment.
 
 🔹 Scenario
@@ -8,7 +10,7 @@ The environment contains static obstacles (racks/walls)
 
 Other robots move independently while performing their own tasks
 
-Whenever the robot is about to collide with an obstacle or moving robot, it triggers replanning
+Whenever the robot is about to collide with an obstacle or a moving robot, it triggers replanning
 
 RRT* is used to generate a new collision-free path in real time
 
