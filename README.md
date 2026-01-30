@@ -6,7 +6,7 @@ This simulation demonstrates how RRT* (Rapidly-exploring Random Tree Star) behav
 
 A mobile robot must reach a goal location
 
-The environment contains static obstacles (racks/walls)
+The environment contains both static and dynamic obstacles (walls)
 
 Other robots move independently while performing their own tasks
 
