@@ -52,5 +52,8 @@ UAV / autonomous navigation
 
 Learning-based planners that use RRT* as a baseline
 
-Note: This code was generated with the assistance of ChatGPT and adapted by me for learning and simulation purposes.
+## Disclaimer
+This repository is intended for educational and simulation purposes.
+The implementation was created with the assistance of AI tools (ChatGPT)
+and manually refined to study RRT* behavior in dynamic environments.
 
